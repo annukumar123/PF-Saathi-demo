@@ -1,0 +1,1 @@
+export const translations={en:{start:'START PF CHECK',next:'NEXT',back:'BACK',review:'Review'},hi:{start:'पीएफ जाँच शुरू करें',next:'आगे',back:'पीछे',review:'समीक्षा'},te:{start:'పీఎఫ్ తనిఖీ ప్రారంభించండి',next:'తదుపరి',back:'వెనుకకు',review:'సమీక్ష'}} as const;

@@ -1,0 +1,1 @@
+"""Deterministic readiness rules."""

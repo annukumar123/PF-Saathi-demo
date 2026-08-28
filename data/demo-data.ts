@@ -1,0 +1,1 @@
+import {Answers} from '@/types'; export const demoAnswers:Answers={purpose:'withdrawal',situation:'left',kyc:'yes',epfoName:'Rahul K Kumar',aadhaarName:'Rahul Kumar',bank:'yes',exitDate:'no',multipleUan:'no',demo:true};
