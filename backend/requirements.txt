@@ -1,4 +1,11 @@
-fastapi>=0.115,<1.0
-uvicorn[standard]>=0.30,<1.0
-pydantic>=2.8,<3.0
-openai>=1.40,<2.0
+fastapi
+uvicorn
+openai
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+requests
+httpx
+spacy
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.8.0/en_core_web_md-3.8.0-py3-none-any.whl
